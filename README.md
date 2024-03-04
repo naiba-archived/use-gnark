@@ -5,7 +5,7 @@
 具体介绍查看博文 <https://lifelonglearn.ing/zero-knowledge_proof>
 
 ```plaintext
-01-cs、01-pk、02-vk 在 rust-setup 阶段生成
+01-cs、01-pk、02-vk 在 trust-setup 阶段生成
 01-* 在证明时使用
 02-* 在验证时使用
 ├── 01-cs.bin
